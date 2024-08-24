@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- Currently studing computer science in Häme University of Applied Sciences
+- Currently studying Computer Science in Häme University of Applied Sciences
 - My hobbies include floorball, computer games and bass guitar
 - Working in Supply Chain with Vianor Oy
 
