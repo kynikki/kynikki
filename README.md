@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- Currently studing computer science in Häme University of Appliec Sciences
+- My hobbies include floorball, computer games and bass guitar
+- Working in Supply Chain with Vianor Oy
+
 <!--
 **kynikki/kynikki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
